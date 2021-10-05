@@ -1,0 +1,25 @@
+Pengertian
+Metode Waterfall merupakan pendekatan SDLC paling awal yang digunakan untuk pengembangan perangkat lunak. 
+Urutan dalam Metode Waterfall bersifat serial yang dimulai dari proses perencanaan, analisa, desain, dan implementasi pada sistem.
+Metode ini dilakukan dengan pendekatan yang sistematis, mulai dari tahap kebutuhan sistem lalu menuju ke tahap analisis, desain, coding, testing/verification, dan maintenance. 
+Langkah demi langkah yang dilalui harus diselesaikan satu per satu (tidak dapat meloncat ke tahap berikutnya) dan berjalan secara berurutan, 
+oleh karena itu di sebut waterfall (Air Terjun).
+
+Tahap-tahap metode waterfall
+- Requirement Analysis
+Sebelum melakukan pengembangan perangkat lunak, seorang pengembang harus mengetahui dan memahami bagaimana informasi kebutuhan penggguna terhadap sebuah perangkat lunak.
+Informasi yang diperoleh kemudian diolah dan dianalisa sehingga didapatkan data yang lengkap mengenai spesifikasi kebutuhan pengguna akan perangkat lunak yang akan dikembangkan.
+- System and Software Design
+Informasi mengenai spesifikasi kebutuhan dari tahap Requirement Analysis selanjutnya di analisa pada tahap ini untuk kemudian diimplementasikan pada desain pengembangan. 
+Perancangan desain dilakukan dengan tujuan membantu memberikan gambaran lengkap mengenai apa yang harus dikerjakan. 
+Tahap ini juga akan membantu pengembang untuk menyiapkan kebutuhan hardware dalam pembuatan arsitektur sistem perangkat lunak yang akan dibuat secara keseluruhan.
+- Implementation and Unit Testing
+Tahap implementation and unit testing merupakan tahap pemrograman. Pembuatan perangkat lunak dibagi menjadi modul-modul kecil yang nantinya akan digabungkan dalam tahap berikutnya.
+Disamping itu, pada fase ini juga dilakukan pengujian dan pemeriksaan terhadap fungsionalitas modul yang sudah dibuat, apakah sudah memenuhi kriteria yang diinginkan atau belum.
+- Integration and System Testing
+Setelah seluruh unit atau modul yang dikembangkan dan diuji di tahap implementasi selanjutnya diintegrasikan dalam sistem secara keseluruhan. 
+Setelah proses integrasi selesai, selanjutnya dilakukan pemeriksaan dan pengujian sistem secara keseluruhan untuk mengidentifikasi kemungkinan adanya kegagalan dan kesalahan sistem.
+- Operation and Maintenance
+Pada tahap terakhir dalam Metode Waterfall, perangkat lunak yang sudah jadi dioperasikan pengguna dan dilakukan pemeliharaan. 
+Pemeliharaan memungkinkan pengembang untuk melakukan perbaikan atas kesalahan yang tidak terdeteksi pada tahap-tahap sebelumnya. 
+Pemeliharaan meliputi perbaikan kesalaha, perabikan implementasi unit sistem, dan peningkatan dan penyesuaian sistem sesuai dengan kebutuhan.
