@@ -1,2 +1,3 @@
 - Kelebihan Metode Waterfall
-Kelebihan menggunakan metode air terjun (waterfall) adalah metode ini memungkinkan untuk departementalisasi dan kontrol.
+Kelebihan menggunakan metode air terjun (waterfall) adalah metode ini memungkinkan untuk departementalisasi dan kontrol. 
+proses pengembangan model fase one by one, sehingga meminimalis kesalahan yang mungkin akan terjadi. Pengembangan bergerak dari konsep, yaitu melalui desain, implementasi, pengujian, instalasi, penyelesaian masalah, dan berakhir di operasi dan pemeliharaan.
