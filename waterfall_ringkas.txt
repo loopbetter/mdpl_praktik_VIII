@@ -1,0 +1,17 @@
+Pengertian
+Metode ini mengambil pendekatan yang sistematis dan tersusun rapi seperti air terjun mulai dari tingkat kebutuhan sistem kemudian berlanjut ke tahapan analisis, desain, coding, 
+pengujian / verifikasi, dan pemeliharaan. Disebut air terjun karena seperti air terjun yang jatuh satu demi satu sehingga penyelesaian tahap sebelumnya kemudian dapat dilanjutkan 
+ke tahap berikutnya dan berjalan-urut.
+- Rekayasa Sistem
+Tahap ini dimulai dengan mencari kebutuhan seluruh sistem untuk diterapkan dalam perangkat lunak
+- Analisis Kebutuhan
+Pada tahap ini pengembang sistem membutuhkan komunikasi yang bertujuan memahami perangkat lunak yang diharapkan oleh pengguna dan keterbatasan perangkat lunak tersebut. 
+Informasi ini biasanya dapat diperoleh melalui wawancara, diskusi atau survei langsung
+- Desain 
+Spesifikasi persyaratan dari tahap sebelumnya akan dipelajari dalam fase ini dan desain sistem disiapkan
+- Pengodean
+Pada fase ini, sistem terintegrasi dengan sintaksis sehingga sistem informasi dapat digunakan sesuai kebutuhan, yang akan diintegrasikan pada tahap selanjutnya ..
+- Pengujian
+Semua unit yang telah dikembangkan dan pengkodean yang benar diuji langsung untuk penggunaannya, seperti menggunakan pengujian blackbox.
+- Pemeliharaan
+fase terakhir dalam model air terjun. Perangkat lunak atau sistem informasi yang sudah jadi, jalankan kemudian dipelihara
