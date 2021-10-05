@@ -1,0 +1,5 @@
+pertemuan 1:
+- perkenalan materi
+- life cycle
+- perkenalan mahasiswa
+
