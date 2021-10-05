@@ -2,4 +2,6 @@ pertemuan 1:
 - perkenalan materi
 - life cycle
 - perkenalan mahasiswa
-
+pertemuan 2:
+-pengenalan GIT dan GITHUB
+- praktik GITHUB
