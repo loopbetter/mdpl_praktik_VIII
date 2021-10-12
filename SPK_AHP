@@ -1,1 +1,14 @@
 Metode AHP adalah metode yang digunakan untuk menilai tindakan yang dikaitkan dengan perbandingan bobot kepentingan antara faktor serta perbandingan beberapa alternatif
+Langkah-langkah AHP
+Pada dasarnya, prosedur atau langkah-langkah dalam metode AHP meliputi (Kusrini, 2007):
+
+a. Mengidentifikasi masalah dan menentukan solusi yang diinginkan, lalu menyusun hierarki dari permasalahan yang dihadapi. Penulisan hierarki adalah dengan menetapkan tujuan yang merupakan sasaran sistem secara keseluruhan pada level teratas.
+b. Menentukan prioritas elemen
+  1. Langkah pertama dalam menentukan prioritas elemen adalah membuat perbandingan pasangan, yaitu membandingkan elemen secara berpasangan sesuai kriteria yang diberikan.
+  2. Matriks perbandingan berpasangan diisi menggunakan bilangan untuk merepresentasikan kepentingan relative dari suatu elemen terhadap elemen yang lainnya.
+c. Sintesis,
+Pertimbangan-pertimbangan terhadap perbandingan berpasangan disintesiskan untuk memperoleh keseluruhan prioritas. Hal-hal yang dilakukan dalam langkah ini adalah :
+  1. Menjumlahkan nilai-nilai dari setiap kolom pada matriks
+  2. Membagi setiap nilai dari kolom dengan total kolom yang bersangkutan untuk memperoleh normalisasi matriks.
+  3. Menjumlahkan nilai-nilai dari setiap baris dan membaginya dengan jumlah elemen untuk mendapatkan nilai rata-rata.
+d.Mengukur Konsistensi
